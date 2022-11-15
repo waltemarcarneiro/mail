@@ -1,0 +1,54 @@
+*margin: {
+    0px; padding: 0px;
+}
+
+body {
+    background: #fff;
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+#main {
+    background: #fff;
+}
+
+#content {
+    background: #fff;
+    text-align: left;
+}
+
+#footer {
+    border-top: 1px solid #ccc;
+    background: #f7f7f7;
+    color: #555;
+    text-align: center;
+    padding: 15px 0px 5px 0px;
+    margin-bottom: 5px;
+    margin-top:50px;
+}
+
+#footer p {
+    line-height: 16px;
+    margin-top: 0px;
+    font-size: 14px;
+    
+}
+
+#social {
+    text-align: center;
+    }
+
+#social img {
+    height: 30px;
+    widows: 30px;
+    margin-right: 10px;
+}
+
+.name {
+    
+    color: #000;
+    font-size: 20px;
+}
+
+.prof {
+    font-size: 12px;
+}
